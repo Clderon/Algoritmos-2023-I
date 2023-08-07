@@ -1,5 +1,5 @@
 def obtener_mayor(n):
-    numeros = []  # Lista para almacenar los números ingresados
+    numeros = []   # Lista para almacenar los números ingresados
 
     # Solicitar al usuario que ingrese n números y guardarlos en la lista
     for i in range(n):

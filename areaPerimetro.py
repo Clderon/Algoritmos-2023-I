@@ -35,7 +35,7 @@ opcion = int(
 )
 
 if opcion == 1:
-    # Calcular el área y el perímetro de un círculo
+    # Calcular el area y el perimetro de un circulo
     radio = float(input("Ingrese el radio del círculo: "))
     area = calcular_area_circulo(radio)
     perimetro = calcular_perimetro_circulo(radio)
@@ -43,7 +43,7 @@ if opcion == 1:
     print("El perímetro del círculo es:", perimetro)
 
 elif opcion == 2:
-    # Calcular el área y el perímetro de un triángulo
+    # Calcular el area y el perimetro de un triangulo
     base = float(input("Ingrese la base del triángulo: "))
     altura = float(input("Ingrese la altura del triángulo: "))
     area = calcular_area_triangulo(base, altura)
@@ -54,7 +54,7 @@ elif opcion == 2:
     print("El perímetro del triángulo es:", perimetro)
 
 elif opcion == 3:
-    # Calcular el área y el perímetro de un rectángulo
+    # Calcular el area y el perimetro de un rectangulo
     base = float(input("Ingrese la base del rectángulo: "))
     altura = float(input("Ingrese la altura del rectángulo: "))
     area = calcular_area_rectangulo(base, altura)

@@ -15,7 +15,7 @@ cantidad = int(
 for i in range(cantidad):
     numeroAleatorio = random.randint(
         minimo, maximo
-    )  # Generar un número aleatorio entre el valor mínimo y máximo
+    )  # Generar un numero aleatorio entre el valor mínimo y máximo
     print(
         "Número aleatorio", i + 1, ":", numeroAleatorio
     )  # Mostrar el número aleatorio generado

@@ -30,7 +30,7 @@ print("4. División\n")
 # Solicitar al usuario que ingrese la opción deseada
 opcion = int(input("Ingrese el número de la opción deseada: "))
 
-# Realizar la operación y obtener el resultado
+# Realizar la operacion y obtener el resultado
 resultado = realizar_operacion(opcion, num1, num2)
 
 # Mostrar el resultado en pantalla

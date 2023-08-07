@@ -2,7 +2,7 @@
 resultado = 1
 numeroUsuario = int(
     input("Ingrese un número: ")
-)  # Solicitar al usuario que ingrese un número
+)  # Solicitar al usuario que ingrese un numero
 
 i = 1  # Inicializar la variable de iteración en 1
 

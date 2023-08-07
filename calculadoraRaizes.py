@@ -12,12 +12,12 @@ discriminante = b**2 - 4 * a * c
 if discriminante > 0:
     raiz1 = (-b + math.sqrt(discriminante)) / (2 * a)
     raiz2 = (-b - math.sqrt(discriminante)) / (2 * a)
-    # Si el discriminante es mayor que cero, hay dos raíces reales diferentes
+    # Si el discriminante es mayor que cero, hay dos raices reales diferentes
     print("Las raíces son:", raiz1, "y", raiz2)
 elif discriminante == 0:
     raiz1 = -b / (2 * a)
     # Si el discriminante es igual a cero, hay una raíz doble
     print("La ecuación tiene una raíz doble:", raiz1)
 else:
-    # Si el discriminante es negativo, la ecuación no tiene raíces reales
+    # Si el discriminante es negativo, la ecuación no tiene raices reales
     print("La ecuación no tiene raíces reales.")

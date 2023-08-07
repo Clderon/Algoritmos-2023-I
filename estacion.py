@@ -1,5 +1,5 @@
 def mostrar_estacion(numero_mes):
-    # Mostrar la estación correspondiente según el número del mes
+    # Mostrar la estación correspondiente segun el numero del mes
     if numero_mes == 1 or numero_mes == 2 or numero_mes == 12:
         print("La estación correspondiente es: Verano")
     elif numero_mes == 3 or numero_mes == 4 or numero_mes == 5:
@@ -12,8 +12,8 @@ def mostrar_estacion(numero_mes):
         print("Número inválido. Por favor, ingrese un número del 1 al 12.")
 
 
-# Solicitar al usuario que ingrese un número del 1 al 12
+# Solicitar al usuario que ingrese un numero del 1 al 12
 numero_mes = int(input("Ingrese un número del 1 al 12: "))
 
-# Llamar a la función para mostrar la estación correspondiente
+# Llamar a la función para mostrar la estacion correspondiente
 mostrar_estacion(numero_mes)
