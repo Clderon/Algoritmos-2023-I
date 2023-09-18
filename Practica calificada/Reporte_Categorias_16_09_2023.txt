@@ -1,0 +1,11 @@
+╒════╤══════════════════════════╤═════════════════╕
+│    │ Codigo de la Categoria   │ Categoria       │
+╞════╪══════════════════════════╪═════════════════╡
+│  0 │ ACT01                    │ Acción          │
+│  1 │ COM02                    │ Comedia         │
+│  2 │ DRM03                    │ Drama           │
+│  3 │ THR04                    │ Suspenso        │
+│  4 │ SCI05                    │ Ciencia Ficción │
+│  5 │ HOR06                    │ Terror          │
+│  6 │ ROM07                    │ Romance         │
+╘════╧══════════════════════════╧═════════════════╛

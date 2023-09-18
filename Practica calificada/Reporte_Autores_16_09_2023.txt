@@ -1,0 +1,11 @@
+╒════╤══════════╤════════════════════╤════════════════════╤═══════════════════════╤════════════════════╤═══════════╤═══════════════════╕
+│    │ Nombre   │ Apellido Paterno   │ Apellido Materno   │ Fecha de Nacimiento   │ Codigo del Autor   │ Pais      │ Editorial         │
+╞════╪══════════╪════════════════════╪════════════════════╪═══════════════════════╪════════════════════╪═══════════╪═══════════════════╡
+│  0 │ Jorge    │ García             │ Pérez              │ 1980-05-15            │ AG1234             │ México    │ Editorial Alpha   │
+│  1 │ Ana      │ Martínez           │ López              │ 1975-03-20            │ BL5678             │ España    │ Editorial Beta    │
+│  2 │ David    │ Rodríguez          │ Sánchez            │ 1990-08-10            │ CA4321             │ Argentina │ Editorial Gamma   │
+│  3 │ María    │ López              │ Fernández          │ 1988-11-25            │ DF9876             │ Chile     │ Editorial Delta   │
+│  4 │ Pedro    │ Fernández          │ Gómez              │ 1972-02-05            │ EG2468             │ Perú      │ Editorial Epsilon │
+│  5 │ Sofía    │ González           │ Ríos               │ 1985-06-30            │ FR1357             │ Colombia  │ Editorial Zeta    │
+│  6 │ Carlos   │ Hernández          │ Molina             │ 1995-04-15            │ GM8642             │ Ecuador   │ Editorial Eta     │
+╘════╧══════════╧════════════════════╧════════════════════╧═══════════════════════╧════════════════════╧═══════════╧═══════════════════╛

@@ -1,0 +1,10 @@
+╒════╤════════════════════╤══════════════════════════╤═══════╤════════════════════╤══════════════════════════╤══════════════════════════╤═════════════════╕
+│    │ Codigo del Libro   │ Titulo                   │   Año │ Codigo del Autor   │ Nombre del Autor         │ Codigo de la Categoria   │ Categoria       │
+╞════╪════════════════════╪══════════════════════════╪═══════╪════════════════════╪══════════════════════════╪══════════════════════════╪═════════════════╡
+│  0 │ L101               │ El Señor de los Anillos  │  1954 │ AG1234             │ Jorge, García Pérez      │ ACT01                    │ Acción          │
+│  1 │ L102               │ Cien años de soledad     │  1967 │ BL5678             │ Ana, Martínez López      │ COM02                    │ Comedia         │
+│  2 │ L103               │ 1984                     │  1949 │ CA4321             │ David, Rodríguez Sánchez │ DRM03                    │ Drama           │
+│  3 │ L104               │ Don Quijote de la Mancha │  1605 │ DF9876             │ María, López Fernández   │ THR04                    │ Suspenso        │
+│  4 │ L105               │ Matar un ruiseñor        │  1960 │ EG2468             │ Pedro, Fernández Gómez   │ SCI05                    │ Ciencia Ficción │
+│  5 │ L106               │ Crimen y castigo         │  1866 │ FR1357             │ Sofía, González Ríos     │ HOR06                    │ Terror          │
+╘════╧════════════════════╧══════════════════════════╧═══════╧════════════════════╧══════════════════════════╧══════════════════════════╧═════════════════╛
